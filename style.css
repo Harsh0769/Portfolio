@@ -351,6 +351,12 @@ article .iocn{
     height: 90%;
 }
 
+.project-img-AI{
+    border-radius: 2rem;
+    height: 95%;
+    width: 100%;
+}
+
 .project-title{
     margin: 1rem;
     color: black;
